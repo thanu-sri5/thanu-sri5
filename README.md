@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/thanu-sri5/thanu-sri5/main/file_00000000a49481fdacd21e130bcf04f0.png" width="100%" alt="Thanusri Banner"/>
+<img src="https://raw.githubusercontent.com/thanu-sri5/thanu-sri5/main/file_00000000a49481fdacd21e130bcf04f0.png" width="50%" alt="Thanusri Banner"/>
 
 <br><br>
 
@@ -8,7 +8,13 @@
 
 </div>
 
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Thanusri+P;AI+%26+Data+Science+Student;Java+%7C+Spring+Boot+%7C+React+Developer;Building+AI+Powered+Solutions;Future+Software+Engineer+%26+Entrepreneur" />
+
 # 👋 Hi, I'm Thanusri P
+
+🚀 AI & Data Science Student | Software Developer Aspirant | Future Entrepreneur
+...
 
 🚀 AI & Data Science Student | Software Developer Aspirant | Future Entrepreneur
 ...
@@ -85,11 +91,11 @@ Become a Software Engineer and build impactful technology products.
 
 📧 Email: [thanusriplraj@gmail.com](mailto:thanusriplraj@gmail.com)
 
-💼 LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/thanusri-p-589b60386/
 
-🌐 Portfolio
+🌐 Portfolio: https://thanusri-portfolio.vercel.app
 
-🐙 GitHub
+🐙 GitHub: https://github.com/thanu-sri5
 
 ---
 
