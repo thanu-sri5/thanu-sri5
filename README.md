@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/thanu-sri5/thanu-sri5/main/file_00000000a49481fdacd21e130bcf04f0.png" width="50%" alt="Thanusri Banner"/>
 
 <br><br>
 
